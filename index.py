@@ -1,2 +1,2 @@
 i am learning softwaredevelopment from scratch 
-im learning at gomycode from mr ibraheem
+im learning at gomy code from mr ibraheem
